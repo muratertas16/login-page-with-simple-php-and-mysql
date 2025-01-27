@@ -1,1 +1,1 @@
-# login-page-with-simple-php-and-mysql
+This project is for entry level and not for professional use.
